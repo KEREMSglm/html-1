@@ -8,7 +8,7 @@
         <meta name="description" content="HTML'ye Giriş">
         <meta name="Keywords" content="HTML,Javascript,CSS,Bootstrap">
 <p align="center">
-    <iframe src="index.html" width="1000" height="400" scrolling="yes"></iframe>
+    <iframe src="index.html" width="1000" height="400" scrolling="yes">
 </p>
         </head>
         <!--Font etiketlerinin yerine CSS ler ile işlemler yapılır-->
@@ -71,7 +71,6 @@
             </p>
         </body>
         <body>
-            <iframe src="index.html" width="1000" height="400" scrolling="yes"></iframe>
             <table border="1">
                 <tr>
                     <th>ÖĞRENCİ ADI</th>
@@ -90,4 +89,5 @@
                 </tr>
             </table>
         </body>
+    </iframe>
     </html>
